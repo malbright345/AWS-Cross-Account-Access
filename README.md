@@ -14,7 +14,7 @@ The choice between these approaches depends on your specific use case, security 
 <h2>Description </h2>
 <br />
 <br />
-In this demo, we will explore two ways of configuring cross-acount access.  First by assigning permissions to a user directly through IAM and bucket policy, then by using roles. 
+In this demo, we will explore two ways of configuring cross-account access.  First by assigning permissions to a user directly through IAM and bucket policy, then by using roles. 
 <br />
 <br />
 <h2>Web Services Used </h2>
