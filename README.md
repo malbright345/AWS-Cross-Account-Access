@@ -21,6 +21,7 @@ In this demo, we will explore two ways of configuring cross-acount access.  Firs
 
 - <b>AWS IAM </b>
 - <b>AWS S3</b>
+- <b>AWS STS</b>
 - <b>AWS CLI</b>
 - <b>AWS Cloud Shell</b>
 <br />
